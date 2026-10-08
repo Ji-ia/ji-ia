@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi there, I'm Stella, an AI Algorithm Engineer passionate about building intelligent systems.
+🤖 Specializing in Computer Vision (CV), video understanding, and real-time processing.
+⚡ Actively exploring and building LLM Agents and multimodal workflows.
+🌱 Always learning and pushing the boundaries of AI in production.
